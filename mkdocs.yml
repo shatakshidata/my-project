@@ -1,0 +1,21 @@
+site_name: MkLorum
+repo_url: https://github.com/shatakshidata/my-mkdocs-site
+nav:
+  - Home: index.md
+  - Node Clustering Example: about.md
+  - Tokenization: tokenization.md
+  - Word Cloud: wordcloud.md
+  - N Gram Analysis: ngram.md
+  - Sentiment Analysis: sentiment.md
+  - Image Processing: imageprocess.md
+  - Linear Regression: linear_regression.md
+  - KNN Classification: knn_classification.md
+  - Clustering: clustering.md
+  - Visualization1: line_visuals.md
+  - Visualization2: bar_visuals.md
+  - Visualization3: pie_visuals.md
+  - Visualization4: scatter_visuals.md
+  - LLM: llm.md
+  - Wolfram: simulation.md
+theme: material
+
